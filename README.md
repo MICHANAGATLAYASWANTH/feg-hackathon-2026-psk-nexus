@@ -7,6 +7,8 @@
 > **Team**: PSK Nexus Innovation Team
 
 > **Live Public URL**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)  
+> **Live Interactive Slide Deck**: [https://psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/)  
+> **PowerPoint Slide Deck**: [`demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx`](demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx)  
 > **Local URL**: `http://localhost:5173`
 
 ---
@@ -168,12 +170,14 @@ This executes all 31 unit, algorithmic, and regulatory assertions across:
 
 In accordance with FEG Hackathon 2026 guidelines, detailed documentation is available in the [`docs/`](file:///Users/satyam/Desktop/feg/docs/) directory:
 
-- 📊 **[D3 Impact Case & Cost-Value Analysis](file:///Users/satyam/Desktop/feg/docs/impact-case.md)**: Detailed econometric modeling, baseline comparisons with `HTK-CRO`, unit economics, and cohort retention forecasts.
-- ⚖️ **[D4 Compliance & Regulatory Note](file:///Users/satyam/Desktop/feg/docs/compliance-note.md)**: Exhaustive legal analysis covering the Croatian Act on Games of Chance (*Zakon o igrama na sreću*), EU AI Act (Reg. 2024/1689), GDPR Art. 25, and WCAG 2.1 AA accessibility audit.
-- 🏗️ **[Architecture & Technical Overview](file:///Users/satyam/Desktop/feg/docs/architecture.md)**: System architecture aligned with FEG's enterprise roadmap (Vue, Python/FastAPI, Kafka, Redis, Keycloak, Prometheus).
-- 📦 **[Material Dependencies & Open Source Disclosure](file:///Users/satyam/Desktop/feg/docs/dependencies.md)**: Complete disclosure of all open-source libraries, fonts, and data licensing.
-- 🎬 **[Demo Walkthrough & Video Link](file:///Users/satyam/Desktop/feg/demo/demo-video-link.md)**: Step-by-step evaluator guide and demonstration video link.
-- 📑 **[Presentation Slide Deck](file:///Users/satyam/Desktop/feg/demo/presentation/pitch-deck.md)**: Complete 10-slide pitch presentation for judging evaluation.
+- 📊 **[D3 Impact Case & Cost-Value Analysis](docs/impact-case.md)**: Detailed econometric modeling, baseline comparisons with `HTK-CRO`, unit economics, and cohort retention forecasts.
+- ⚖️ **[D4 Compliance & Regulatory Note](docs/compliance-note.md)**: Exhaustive legal analysis covering the Croatian Act on Games of Chance (*Zakon o igrama na sreću*), EU AI Act (Reg. 2024/1689), GDPR Art. 25, and WCAG 2.1 AA accessibility audit.
+- 🏗️ **[Architecture & Technical Overview](docs/architecture.md)**: System architecture aligned with FEG's enterprise roadmap (Vue, Python/FastAPI, Kafka, Redis, Keycloak, Prometheus).
+- 📦 **[Material Dependencies & Open Source Disclosure](docs/dependencies.md)**: Complete disclosure of all open-source libraries, fonts, and data licensing.
+- 🎬 **[Demo Walkthrough & Video Link](demo/demo-video-link.md)**: Step-by-step evaluator guide and demonstration video link.
+- 📑 **[PowerPoint Presentation (.pptx)](demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx)**: Official 16:9 widescreen PowerPoint presentation deck for judging evaluation.
+- 🌐 **[Live Interactive Slide Deck](https://psk-nexus-feg.surge.sh/presentation/)**: Full-screen browser-based interactive presentation with speaker drawer and keyboard controls.
+- 📝 **[Presentation Markdown Script](demo/presentation/pitch-deck.md)**: Complete 10-slide evaluation transcript with judging criteria mapping & verbal cues.
 
 ---
 
