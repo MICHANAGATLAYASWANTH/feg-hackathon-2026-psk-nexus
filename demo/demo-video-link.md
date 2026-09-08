@@ -5,7 +5,9 @@
 
 ## 1. Interactive Prototype Demonstration
 
-Reviewers can run and interact with the full working prototype directly on any standard machine.
+### 🌐 Live Public URL (Instant Access for Reviewers)
+👉 **[https://a4c1725b098cc1.lhr.life](https://a4c1725b098cc1.lhr.life)**  
+*(No installation required — open from any browser, phone, or laptop!)*
 
 ### Local Run Instructions
 ```bash

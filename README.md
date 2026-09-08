@@ -6,6 +6,9 @@
 > **Solution Title**: **PSK Nexus**  
 > **Team**: PSK Nexus Innovation Team
 
+> **Live Public URL**: [https://a4c1725b098cc1.lhr.life](https://a4c1725b098cc1.lhr.life)  
+> **Local URL**: `http://localhost:5173`
+
 ---
 
 ## 1. Problem Statement
