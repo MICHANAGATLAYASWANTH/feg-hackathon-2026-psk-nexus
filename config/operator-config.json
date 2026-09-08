@@ -1,0 +1,28 @@
+{
+  "brand": "PSK",
+  "brandFullName": "Prva Sportska Kladionica",
+  "market": "HR",
+  "jurisdiction": "Republic of Croatia",
+  "currency": "EUR",
+  "regulatoryAuthority": "Ministarstvo financija Republike Hrvatske",
+  "taxation": {
+    "manipulationFeePercent": 5.0,
+    "lawReference": "Zakon o igrama na sreću (NN 87/09, 35/13, 158/13, 41/14, 143/14)"
+  },
+  "guardrails": {
+    "minAge": 18,
+    "registerCheckRequired": true,
+    "registerName": "Registar isključenih igrača",
+    "darkPatternsStrictlyProhibited": true,
+    "countdownPressureProhibited": true,
+    "defaultDailyDepositLimitEUR": 50.0,
+    "sessionRealityCheckMinutes": 45,
+    "velocityWarningThresholdBetsPerMinute": 4
+  },
+  "sqiThresholds": {
+    "baselineTTFBSecs": 408.0,
+    "targetTTFBSecs": 90.0,
+    "targetConversionRate": 0.28,
+    "excellentSQIScore": 85.0
+  }
+}

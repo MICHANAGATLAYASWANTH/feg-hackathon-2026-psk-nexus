@@ -1,0 +1,28 @@
+{
+  "name": "feg-hackathon-2026-psk-nexus",
+  "version": "1.0.0",
+  "description": "PSK Nexus: Intelligent In-Session Guidance & Frictionless Conversion Engine for FEG Hackathon 2026 (Challenge 1)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "feg",
+    "hackathon-2026",
+    "psk",
+    "sportsbook",
+    "casino",
+    "session-quality",
+    "responsible-gambling",
+    "ai-act",
+    "conversion-optimization"
+  ],
+  "author": "PSK Nexus Team (FEG Innovation Hackathon 2026)",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}

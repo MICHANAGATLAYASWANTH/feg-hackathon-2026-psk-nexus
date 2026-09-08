@@ -1,0 +1,189 @@
+/* Executive SQI Cockpit & Analytics Dashboard Styles */
+
+.cockpit-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.cockpit-header-banner {
+  background: linear-gradient(135deg, #002B49 0%, #064E3B 100%);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: var(--shadow-subtle);
+}
+
+.cockpit-title-group h2 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.cockpit-title-group p {
+  color: #94A3B8;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+.sqi-live-gauge {
+  background: rgba(0, 18, 32, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.sqi-live-gauge .gauge-val {
+  font-size: 2.2rem;
+  font-weight: 900;
+  color: var(--psk-yellow);
+}
+
+.sqi-live-gauge .gauge-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Pillar KPI Cards */
+.kpi-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.kpi-card {
+  background: var(--psk-navy-surface);
+  border: 1px solid var(--psk-navy-border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  box-shadow: var(--shadow-subtle);
+}
+
+.kpi-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.kpi-card-val {
+  font-size: 1.65rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.kpi-card-delta {
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.delta-positive {
+  color: var(--rg-safe);
+}
+
+.delta-negative {
+  color: #EF4444;
+}
+
+/* Comparison Table */
+.comparison-card {
+  background: var(--psk-navy-surface);
+  border: 1px solid var(--psk-navy-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-subtle);
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  margin-top: 1rem;
+}
+
+.comparison-table th {
+  text-align: left;
+  padding: 0.75rem 1rem;
+  background: var(--psk-navy-primary);
+  color: #CBD5E1;
+  font-weight: 700;
+  border-bottom: 2px solid var(--psk-navy-border);
+}
+
+.comparison-table td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  color: #E2E8F0;
+}
+
+.comparison-table tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.badge-benchmark {
+  background: rgba(148, 163, 184, 0.2);
+  color: #CBD5E1;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+
+.badge-nexus {
+  background: rgba(16, 185, 129, 0.2);
+  color: #6EE7B7;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.75rem;
+}
+
+/* ROI & Financial Model Callout */
+.roi-callout {
+  background: linear-gradient(135deg, rgba(0, 43, 73, 0.9), rgba(12, 72, 114, 0.9));
+  border: 1px solid var(--psk-cyan);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+}
+
+.roi-item h4 {
+  font-size: 0.8rem;
+  color: #7DD3FC;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.roi-item .roi-val {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+  margin-top: 0.2rem;
+}
+
+.roi-item p {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}

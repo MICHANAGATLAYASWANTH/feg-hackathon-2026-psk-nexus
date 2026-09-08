@@ -1,0 +1,56 @@
+:root {
+  /* PSK Brand Color System */
+  --psk-navy-darkest: #001220;
+  --psk-navy-dark: #001A2C;
+  --psk-navy-primary: #002B49;
+  --psk-navy-surface: #06395E;
+  --psk-navy-card: #0A436D;
+  --psk-navy-border: #145688;
+
+  /* Brand Accents */
+  --psk-yellow: #FFCC00;
+  --psk-yellow-hover: #E6B800;
+  --psk-cyan: #00A3E0;
+  --psk-cyan-hover: #008BC0;
+
+  /* Functional & Responsible Gaming Status Colors */
+  --rg-safe: #10B981;
+  --rg-warning: #F59E0B;
+  --rg-danger: #EF4444;
+  --rg-info: #3B82F6;
+
+  /* Text & Surfaces */
+  --text-main: #FFFFFF;
+  --text-muted: #94A3B8;
+  --text-dark: #0F172A;
+  --surface-glass: rgba(6, 57, 94, 0.75);
+  --surface-glass-border: rgba(255, 255, 255, 0.12);
+  --shadow-subtle: 0 4px 20px rgba(0, 0, 0, 0.35);
+  --shadow-glow-yellow: 0 0 15px rgba(255, 204, 0, 0.3);
+  --shadow-glow-cyan: 0 0 15px rgba(0, 163, 224, 0.3);
+
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Montserrat', var(--font-sans);
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-smooth: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--psk-navy-darkest);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
