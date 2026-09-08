@@ -6,7 +6,7 @@
 > **Solution Title**: **PSK Nexus**  
 > **Team**: PSK Nexus Innovation Team
 
-> **Live Public URL**: [https://a4c1725b098cc1.lhr.life](https://a4c1725b098cc1.lhr.life)  
+> **Live Public URL**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)  
 > **Local URL**: `http://localhost:5173`
 
 ---

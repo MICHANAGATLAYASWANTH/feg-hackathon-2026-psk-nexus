@@ -5,9 +5,9 @@
 
 ## 1. Interactive Prototype Demonstration
 
-### 🌐 Live Public URL (Instant Access for Reviewers)
-👉 **[https://a4c1725b098cc1.lhr.life](https://a4c1725b098cc1.lhr.life)**  
-*(No installation required — open from any browser, phone, or laptop!)*
+### 🌐 Live Public URL (Instant Global CDN Access)
+👉 **[https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)**  
+*(Permanent cloud deployment on global CDN — open from any mobile, tablet, or PC!)*
 
 ### Local Run Instructions
 ```bash
