@@ -2,8 +2,11 @@
 **FEG Innovation Hackathon 2026 — Challenge 1**  
 **Challenge**: Session Quality and Session-to-Action Conversion  
 **Brand & Market**: Prva Sportska Kladionica (**PSK.hr**, Croatia — Fortuna Entertainment Group)  
-**Interactive Slide Deck**: [https://psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/)  
-**Live Web Application**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)
+**Primary Live App (Vercel CDN)**: [https://feg-ten.vercel.app](https://feg-ten.vercel.app)  
+**GitHub Pages (Permanent Lifetime Host)**: [https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/](https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/)  
+**Interactive Slide Deck**: [https://feg-ten.vercel.app/presentation/](https://feg-ten.vercel.app/presentation/) *(Surge Mirror: [psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/))*  
+**Surge Mirror**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)  
+**Demo Video Stream**: [https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4](https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4)
 
 ---
 
@@ -26,7 +29,7 @@
 - **Headline**: PSK NEXUS: Converting Browsing into Confident, Informed Action
 - **Sub-headline**: Solving Discovery Friction & Final-Step Abandonment with Zero Dark Patterns
 - **Brand Identity**: Prva Sportska Kladionica (PSK.hr) & Fortuna Entertainment Group (FEG)
-- **Live Links**: [psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh) • [GitHub: feg-hackathon-2026-psk-nexus](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus)
+- **Live Links**: [feg-ten.vercel.app](https://feg-ten.vercel.app) • [GitHub Pages](https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/) • [Surge Mirror](https://psk-nexus-feg.surge.sh) • [GitHub: feg-hackathon-2026-psk-nexus](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus)
 
 ### Speaker Script (30 seconds)
 > *"Judges, FEG does not have a traffic acquisition problem—users are already coming. Our data for PSK Croatia proves that 4 out of every 5 sessions end with zero action. Why? Because users are paralyzed by 150 alphabetical leagues, and when they finally build a bet slip, 38% abandon it at the final confirmation step out of hesitation and risk anxiety.  
@@ -165,8 +168,11 @@
 
 ### Visual Elements
 - **Live Links**:
-  - Global Live Demo: **[psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)**
-  - Interactive Slide Deck: **[psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/)**
+  - Primary Production (Vercel CDN): **[https://feg-ten.vercel.app](https://feg-ten.vercel.app)**
+  - GitHub Pages (Permanent Host): **[https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/](https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/)**
+  - Interactive Slide Deck: **[https://feg-ten.vercel.app/presentation/](https://feg-ten.vercel.app/presentation/)**
+  - Surge CDN Mirror: **[https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)**
+  - Demo Video Stream: **[https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4](https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4)**
   - GitHub Repo: **[github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus)**
 - **Test Suite Proof**:
   - 31 Automated Tests Passing (SQI scoring, Croatian 5% MT fee, register checks, velocity breaker).

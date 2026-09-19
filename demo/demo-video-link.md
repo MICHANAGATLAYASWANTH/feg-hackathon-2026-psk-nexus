@@ -5,9 +5,13 @@
 
 ## 1. Interactive Prototype Demonstration
 
-### 🌐 Live Public URL (Instant Global CDN Access)
-👉 **[https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)**  
-*(Permanent cloud deployment on global CDN — open from any mobile, tablet, or PC!)*
+### 🌐 Live Public URLs (Permanent Multi-CDN Lifetime Access)
+- 🚀 **Primary Production App (Vercel Global Edge CDN)**: **[https://feg-ten.vercel.app](https://feg-ten.vercel.app)**
+- 🌐 **GitHub Pages (Permanent Lifetime Host)**: **[https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/](https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/)**
+- ⚡ **Surge CDN Mirror 1**: **[https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)**
+- ⚡ **Surge CDN Mirror 2**: **[https://psk-nexus-feg-2026.surge.sh](https://psk-nexus-feg-2026.surge.sh)**
+- 📑 **Interactive Slide Deck**: **[https://feg-ten.vercel.app/presentation/](https://feg-ten.vercel.app/presentation/)** *(Mirror: [psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/))*  
+*(Encrypted HTTPS deployments with 0 installation required — open directly from any mobile phone, tablet, or desktop browser!)*
 
 ### Local Run Instructions
 ```bash
@@ -62,7 +66,18 @@ Follow these steps to experience how `PSK Nexus` transforms session quality:
 
 ---
 
-## 3. Video Recording Link
-- **Demonstration Video**: A pre-recorded video walkthrough showcasing this exact flow is uploaded and linked here:
-  - `https://drive.google.com/drive/u/0/folders/1K2GK1KJP6xvphik6y7LhNVyNzT1dzMV4` (or team presentation folder)
-  - Video format: 1080p MP4 with clear audio narration walking through discovery, copilot, slip flex, and RG controls.
+## 3. Video Recording Links & Files
+- **Direct Video Stream (Global CDN)**:
+  - 🎥 **[https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4](https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4)**
+- **GitHub Direct Stream / Raw Download (Lifetime)**:
+  - 📥 **[https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus/raw/master/demo/psk_nexus_linkedin_demo.mp4](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus/raw/master/demo/psk_nexus_linkedin_demo.mp4)**
+- **GitHub In-Browser Player**:
+  - 🎬 **[https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus/blob/master/demo/psk_nexus_linkedin_demo.mp4](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus/blob/master/demo/psk_nexus_linkedin_demo.mp4)**
+- **Local File in Git Repository**:
+  - File: [`demo/psk_nexus_linkedin_demo.mp4`](demo/psk_nexus_linkedin_demo.mp4)
+  - Specs: **1080p Full HD (1920x1080), 30fps H.264 MP4, 9.35 MB**
+  - Features: Branded intro/outro cards, animated cursor pointer, lower-third LinkedIn scene banners, end-to-end user flow.
+- **Pre-recorded Extended Walkthrough (Cloud Backup)**:
+  - 📁 **[Google Drive Presentation Folder](https://drive.google.com/drive/folders/1K2GK1KJP6xvphik6y7LhNVyNzT1dzMV4)** *(FEG Hackathon presentation drive)*
+
+

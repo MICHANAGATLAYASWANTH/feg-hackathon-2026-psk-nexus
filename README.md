@@ -6,9 +6,12 @@
 > **Solution Title**: **PSK Nexus**  
 > **Team**: PSK Nexus Innovation Team
 
-> **Live Public URL**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)  
-> **Live Interactive Slide Deck**: [https://psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/)  
+> **Live Public URL (Vercel CDN)**: [https://feg-ten.vercel.app](https://feg-ten.vercel.app)  
+> **GitHub Pages (Permanent Lifetime Host)**: [https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/](https://michanagatlayaswanth.github.io/feg-hackathon-2026-psk-nexus/)  
+> **Surge CDN Mirror**: [https://psk-nexus-feg.surge.sh](https://psk-nexus-feg.surge.sh)  
+> **Live Interactive Slide Deck**: [https://feg-ten.vercel.app/presentation/](https://feg-ten.vercel.app/presentation/) *(Mirror: [psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/))*  
 > **PowerPoint Slide Deck**: [`demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx`](demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx)  
+> **Direct Demo Video**: [Stream MP4](https://feg-ten.vercel.app/demo/psk_nexus_linkedin_demo.mp4) • [GitHub Raw Video](https://github.com/MICHANAGATLAYASWANTH/feg-hackathon-2026-psk-nexus/raw/master/demo/psk_nexus_linkedin_demo.mp4)  
 > **Local URL**: `http://localhost:5173`
 
 ---
@@ -176,7 +179,7 @@ In accordance with FEG Hackathon 2026 guidelines, detailed documentation is avai
 - 📦 **[Material Dependencies & Open Source Disclosure](docs/dependencies.md)**: Complete disclosure of all open-source libraries, fonts, and data licensing.
 - 🎬 **[Demo Walkthrough & Video Link](demo/demo-video-link.md)**: Step-by-step evaluator guide and demonstration video link.
 - 📑 **[PowerPoint Presentation (.pptx)](demo/presentation/PSK-Nexus-FEG-Hackathon-2026.pptx)**: Official 16:9 widescreen PowerPoint presentation deck for judging evaluation.
-- 🌐 **[Live Interactive Slide Deck](https://psk-nexus-feg.surge.sh/presentation/)**: Full-screen browser-based interactive presentation with speaker drawer and keyboard controls.
+- 🌐 **[Live Interactive Slide Deck](https://feg-ten.vercel.app/presentation/)**: Full-screen browser-based interactive presentation with speaker drawer and keyboard controls *(Surge Mirror: [psk-nexus-feg.surge.sh/presentation/](https://psk-nexus-feg.surge.sh/presentation/))*.
 - 📝 **[Presentation Markdown Script](demo/presentation/pitch-deck.md)**: Complete 10-slide evaluation transcript with judging criteria mapping & verbal cues.
 
 ---
