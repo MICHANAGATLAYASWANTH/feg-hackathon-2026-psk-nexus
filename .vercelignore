@@ -1,0 +1,7 @@
+.git
+.github
+tests
+docs
+demo/record_pipeline
+node_modules
+*.DS_Store

@@ -233,7 +233,16 @@ class PSKNexusApp {
   }
 }
 
-// Bootstrap on DOM ready
-document.addEventListener('DOMContentLoaded', () => {
-  window.pskNexusApp = new PSKNexusApp();
-});
+// Bootstrap application safely regardless of script load timing
+function startApp() {
+  if (!window.pskNexusApp) {
+    window.pskNexusApp = new PSKNexusApp();
+  }
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', startApp);
+} else {
+  startApp();
+}
+

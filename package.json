@@ -22,7 +22,8 @@
   ],
   "author": "PSK Nexus Team (FEG Innovation Hackathon 2026)",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "vite": "^5.4.2"
-  }
+  },
+  "devDependencies": {}
 }
